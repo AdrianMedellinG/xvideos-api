@@ -181,5 +181,5 @@ const detail = await xvideos.videos.details(fresh.videos[0]); /**
     ```
 
 ### License
-[Licence](https://github.com/rodrigogs/xvideos/blob/master/LICENSE) © Rodrigo Gomes da Silva
+[Licence](https://github.com/AdrianMedellinG/xvideos-api/blob/main/LICENSE) © Adrian Medellin
 #
