@@ -4,12 +4,12 @@ A a [Node.js](https://nodejs.org) [xvideos.com](xvideos.com) API library.
 
 ### Install
 ```bash
-$ npm install xvideos-api
+$ npm install @amedellin85/xvideos-api
 ```
 
 ### Usage
 ```javascript
-const xvideos = require('xvideos-api');
+const xvideos = require('@amedellin85/xvideos-api');
 
 //-- Inside an async function --//
 
